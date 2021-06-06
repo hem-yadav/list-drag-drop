@@ -1,0 +1,11 @@
+.button {
+  background-color: black;
+  padding: 8px 18px 8px 18px;
+  border-radius: 3px;
+  border: none;
+  color: white;
+}
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}

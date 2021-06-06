@@ -1,0 +1,17 @@
+/* Icon styling */
+.icon {
+  zoom: 2;
+  cursor: pointer;
+}
+
+.icon.icon-xs {
+  zoom: 0.8;
+}
+
+.icon.icon-s {
+  zoom: 1;
+}
+
+.icon.icon-m {
+  zoom: 1.2;
+}

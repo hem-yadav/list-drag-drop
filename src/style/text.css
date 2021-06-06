@@ -1,0 +1,38 @@
+.text-weight-bold {
+  font-weight: bold;
+}
+
+.text {
+  letter-spacing: 1;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  word-break: break-all;
+  border-radius: 0.2em;
+}
+
+.header {
+  font-size: 20px;
+}
+
+.subscript {
+  font-size: 13px !important;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.editable {
+  border: solid 2px rgb(27, 107, 177);
+}
+
+.emptyError:empty {
+  border: solid 2px red;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}

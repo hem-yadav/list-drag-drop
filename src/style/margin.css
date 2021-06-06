@@ -1,0 +1,22 @@
+.margin-vertical-m {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.margin-vertical-s {
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+}
+
+.margin-horizontal-m {
+  margin-left: 0.6em;
+  margin-right: 0.6em;
+}
+
+.margin-left-m {
+  margin-left: 0.6em;
+}
+
+.margin-right-m {
+  margin-right: 0.6em;
+}
